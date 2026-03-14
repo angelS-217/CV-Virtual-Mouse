@@ -9,3 +9,7 @@ Execute the `virtual_mouse_test.py` script to launch the virtual mouse. Current 
 - Mouse Cursor: Index Finger Point
 - Left-Click: Touch Index Finger to Thumb Finger
 - Right-Click: Touch Middle Finger to Thumb Finger
+
+# Demonstrations
+- Model Training and Evaluation https://youtu.be/7QEdJ4rbx18
+- Live Test https://youtu.be/thYB2U0OWdA
