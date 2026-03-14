@@ -1,0 +1,21 @@
+# Unecessary Files
+.venv
+Exams
+Homework
+Labs
+Lectures
+References
+resources
+Syllabus
+Test Images
+Textbook
+EE 146.code-workspace
+EE146.prj
+
+# Project Ignores
+media/gesture-recognizer.png
+scripts/virtual_mouse.py
+slideshow/ee146_project_slideshow.pptx
+documents/Information on the Project Winter 2026.pdf
+documents/MediaPipe-On-device Real-time Hand Tracking.pdf
+echar008-jpuli018_ee146_project.zip
